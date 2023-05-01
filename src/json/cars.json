@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "img": "gallery1.jpg",
+        "title": "شيفورلية كروز 2010",
+        "spead": "184000كم",
+        "model": "2013",
+        "location": "الاسكندرية سموحة، Ezbet Saad, Sidi Gaber",
+        "price": "123000ج"
+    },
+    {
+        "id": 2,
+        "img": "gallery2.jpg",
+        "title": "هيونداي جراند i10",
+        "spead": "162000كم",
+        "model": "2019",
+        "location": "القاهرة حدائق الأهرام، الهرم، مصر",
+        "price": "180000ج"
+    },
+    {
+        "id": 3,
+        "img": "gallery3.jpg",
+        "title": "بيكانتو 2015",
+        "spead": "167000كم",
+        "model": "2021",
+        "location": "الجيزة الجيزة، Egypt",
+        "price": "122000ج"
+    },
+    {
+        "id": 4,
+        "img": "gallery4.jpg",
+        "title": "لانسر ١٦٠٠ خليجي",
+        "spead": "155000كم",
+        "model": "2015",
+        "location": "البحيرة الدلنجات، الدلتجات، مركز الدلنجات، مصر",
+        "price": "156000ج"
+    },
+    {
+        "id": 5,
+        "img": "gallery5.jpg",
+        "title": "BMW X3 2013",
+        "spead": "145000كم",
+        "model": "2020",
+        "location": "القليوبية قلي بالقرب من بنها، قسم بنها، بنها، مصر",
+        "price": "194000ج"
+    },
+    {
+        "id": 6,
+        "img": "gallery6.jpg",
+        "title": "فورد كوجا 2019",
+        "spead": "153000كم",
+        "model": "2023",
+        "location": "القاهرة المقطم, Al Abageyah, El Khalifa, Egypt",
+        "price": "170000ج"
+    }
+]

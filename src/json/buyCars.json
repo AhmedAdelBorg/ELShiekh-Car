@@ -1,0 +1,43 @@
+{
+  "buyCars": [
+    {
+      "brand": "أودى",
+      "model": "Q5",
+      "madeYear": "2011",
+      "capacityEngine": "2000 CC",
+      "kilometres": "134,000 كم",
+      "price": "850,000 جنيه",
+      "governorate": "القاهرة",
+      "region": "المعادي",
+      "comment": "عربية عشره علي عشره",
+      "image": "gallery7.jpg",
+      "id": 10
+    },
+    {
+      "brand": "أودى",
+      "model": "Q5",
+      "madeYear": "2011",
+      "capacityEngine": "2000 CC",
+      "kilometres": "134,000 كم",
+      "price": "850,000 جنيه",
+      "governorate": "القاهرة",
+      "region": "المعادي",
+      "comment": "عربية عشره علي عشره",
+      "image": "gallery6.jpg",
+      "id": 11
+    },
+    {
+      "brand": "إم جي",
+      "model": "5",
+      "madeYear": "2022",
+      "capacityEngine": "1500 CC",
+      "kilometres": "500 كم",
+      "price": "590,000 جنيه",
+      "governorate": "القاهرة",
+      "region": " مدينة نصر",
+      "comment": "لا تعليق",
+      "image": "gallery3.jpg",
+      "id": 12
+    }
+  ]
+}
